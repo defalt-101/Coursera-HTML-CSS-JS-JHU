@@ -52,11 +52,11 @@ body{
 } 
 
 #title-two{
-  background-color: #red;
+  background-color: red;
 }
 
 #title-three{
-  background-color: #blue;
+  background-color: blue;
 }
 
 /* Simple Responsive Framework. */
