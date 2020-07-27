@@ -3,13 +3,8 @@
 }
 
 body{
-<<<<<<< HEAD
   margin: 0;
   padding: 0;
-=======
-	margin: 0;
-	padding: 0;
->>>>>>> e530221568568c87daefcab2c14f0de27d1a294e
   font-family: "Times New Roman";
 }
 
@@ -74,11 +69,7 @@ h1 {
 /********** Large devices only **********/
 @media (min-width: 992px) {
   .col-lg-4 {
-<<<<<<< HEAD
     float: left;
-=======
-  	float: left;
->>>>>>> e530221568568c87daefcab2c14f0de27d1a294e
     width: 33.33%;
   }
 }
@@ -102,11 +93,7 @@ h1 {
 
 @media (min-width: 0px) and (max-width: 767px) {
   .col-sm-12 {
-<<<<<<< HEAD
     float: left;
-=======
-  	float: left;
->>>>>>> e530221568568c87daefcab2c14f0de27d1a294e
     width: 100%;
   }
   .content-name{
